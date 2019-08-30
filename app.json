@@ -7,31 +7,31 @@
   "env": {
   "TWILIO_ACCOUNT_SID": {
     "description": "Your Twilio Account SID",
-    "value": "twilio_account_sid"
+    "value": "AC80377d19324db3eba7e50541ef626df7"
   },
   "TWILIO_AUTH_TOKEN": {
     "description": "Your Twilio Auth Token",
-    "value": "twilio_auth_token"
+    "value": "58dcfb53df6d8f97fa697af998ee4673"
   },
   "TWILIO_API_KEY": {
     "description": "Your Twilio API Key",
-    "value": "twilio_api_key"
+    "value": "SK1954f58995222ae05d81aa3b081ba2e7"
   },
   "TWILIO_API_SECRET": {
     "description": "Your Twilio API Secret",
-    "value": "twilio_api_secret"
+    "value": "xT1RFgFV0ABsKtqPnBIMvuxyLGBAz51D"
   },
   "TWILIO_SYNC_SERVICE_ID": {
     "description": "Your Twilio Sync Service ID",
-    "value": "twilio_sync_service_id"
+    "value": "ISb4c49e2dc419584564ef4297ef0d6893"
   },
   "TWILIO_WORKSPACE_SID": {
     "description": "Your Twilio TaskRouter Workspace SID",
-    "value": "twilio_workspace_sid"
+    "value": "WS3090c7cf8e3bab4c3c8a714e8fc1f58a"
   },
   "TWILIO_WORKFLOW_SID": {
     "description": "Your Twilio TaskRouter Workflow SID",
-    "value": "twilio_workflow_sid"
+    "value": "WW9e405edc8aadddd8a519317842f8b40c"
   }
  }
 }
