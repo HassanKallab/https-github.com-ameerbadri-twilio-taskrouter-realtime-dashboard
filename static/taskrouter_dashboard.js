@@ -2,7 +2,7 @@ var taskrouterDashboard = new Vue({
   el: '#taskrouterDashboard',
   data: {
     headerMessage: 'TaskRouter Real-Time Dashboard',
-    loggedUser: "hassan@cloudnetworks.tech",
+    loggedUser: "ameer@twilio.com",
     userAuthenticated: false,
     syncStatus: "Disconnected",
     totalTasks: 0,
