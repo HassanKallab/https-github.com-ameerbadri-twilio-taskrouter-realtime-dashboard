@@ -40,7 +40,7 @@ var taskrouterDashboard = new Vue({
   },
   methods: {
     displayRecording: function (task) {
-      if (task.taskStatus == 'completed' && task.channel == 'Phone' && (task.recordingUrl).length > 1) {
+      if (task.taskStatus == 'completed' && task.channel == 'Voice' && (task.recordingUrl).length > 1) {
         return true;
       }
       else {
